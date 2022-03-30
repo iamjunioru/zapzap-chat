@@ -4,18 +4,17 @@
   <a href="https://github.com/iamjunioru/zapzap-chat">
     <img src="icozap.png" alt="Logo" width="100" height="70">
   </a>
+  
 
   <h3 align="center">★ zapzap - o app que vai superar o wh4tsapp ★</h3>
 
   <p align="center">
     <i>memechat</i> feito pro projeto final da disciplina sistemas distribuídos.<br>
-    feito com Socket e GUI Tkinter.
-    <br>
-    <br>
-    >
-     feito com :heart: por <a href="https://github.com/iamjunioru">junior</a>.
-    <
-    </br
+    feito com Socket e GUI Tkinter. <br>
+    
+```
+$ pip install r- requirements.txt
+```
   </p>
 </div>
 
@@ -27,6 +26,12 @@
   <img src="login.jpg" alt="menu" width="402" height="382"> <br> tela de login 😎 <br> <br>
   <img src="msg.jpg" alt="sobre" width="472" height="582"> <br> tela de conversa 😎 <br>   
  <br>
-  
-  
+ 
 ---
+  
+  <div id="bottom"></div>
+    <br>
+     feito com :heart: por <a href="https://github.com/iamjunioru">junior</a>.
+    <p>
+      <br>
+  
