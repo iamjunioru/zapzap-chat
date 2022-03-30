@@ -1,6 +1,8 @@
 <!-- header -->
 <div id="top"></div>
 <div align="center">
+  <br>
+  <br>
   <a href="https://github.com/iamjunioru/zapzap-chat">
     <img src="icozap.png" alt="Logo" width="100" height="70">
   </a>
